@@ -1,0 +1,19 @@
+id: A814A5417
+title: Food Offering Prayer
+type: translation
+pechas:
+- I07DE2EAE
+- IAC72DB9F
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:00:02.138113
+  last_modified_at: 2023-01-04 13:00:02.138132
+  collections:
+  - Longchen Rabjam Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I07DE2EAE/2FA0: D5D9
+  IAC72DB9F/1BED: D5D9
